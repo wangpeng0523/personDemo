@@ -5,8 +5,6 @@ package main.java.com.ztwj.web.comtroller;
  */
 public class UserLogin {
     public String userLongin(){
-        System.out.println("other");
-        System.out.println("mine");
         return null;
     }
 }
